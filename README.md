@@ -3,6 +3,10 @@
 > https://github.com/demonsec666/secist_script
 
 > 即刻安全:www.secist.com
+# 1.7更新
+**把多个小类规划为四个大类**
+**增加nmap扫描漏洞功能，在web Scanner模块中**
+**增加nmap类(还在更新中)**
 # 功能介绍
 **程序运行时会检测nmap,wpscan,nikto,Metasploit是否已经安装**
 ## Web_delivery
