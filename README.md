@@ -3,6 +3,11 @@
 > https://github.com/demonsec666/secist_script
 
 > 即刻安全:www.secist.com
+# 2.0更新
+**1：增加破解模块**
+**2：增加文件注入payload**
+**3：增加二级三级菜单返回**
+**4：排版大翻版**
 # 1.7更新
 **把多个小类规划为四个大类**
 **增加nmap扫描漏洞功能，在web Scanner模块中**
