@@ -1,4 +1,7 @@
-## secist_script1.0项目地址
+
+#注：此脚本是更新与优化Demon的脚本
+#源地址：
+## secist_script1.3项目地址
 
 > https://github.com/demonsec666/secist_script
 
